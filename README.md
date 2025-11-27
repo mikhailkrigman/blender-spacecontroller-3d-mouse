@@ -5,6 +5,8 @@ Unofficial Blender 4.x add-on that lets you use **SpaceController** 3D mice for 
 > ⚠️ This project is **not** affiliated with or endorsed by SpaceControl GmbH.  
 > “SpaceController” is a trademark of SpaceControl GmbH.
 
+![repo_logo](doc/repo_logo.png)
+
 ---
 
 ## Features
