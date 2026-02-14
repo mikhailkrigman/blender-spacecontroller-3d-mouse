@@ -48,9 +48,3 @@ Unofficial Blender 4.x add-on that lets you use **SpaceController** 3D mice for 
 ## Configuration
 
 The add-on exposes several options as **Add-on Preferences** and in the **N-panel**:
-
----
-
-## User Guide
-
-TODO
